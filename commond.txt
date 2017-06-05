@@ -1,0 +1,1 @@
+./fimo --thresh 1e-3 --text motif.txt ORF_Seq.fasta > RBP_result.txt 
